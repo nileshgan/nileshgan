@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQEibkAw4YtOXA/profile-displaybackgroundimage-shrink_350_1400/0/1690911151720?e=1699488000&v=beta&t=3DYQorGaQY_YWFmZBm8tZnKOW9rPpFAK4lUHiNss1FI)
 
 <h1 align="center">Hi 👋, I'm Nilesh Ganvir</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from Pune,India</h3>
 
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
