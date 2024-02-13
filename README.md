@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **DevOps Projects**
 
-- 🌱 I’m currently learning **Python**, **Kubernetes**, **Terraform**
+- 🌱 I’m currently learning **Python**, **Azure**, **Terraform**
 
 - 📝 I regularly write articles on [https://nileshganvir.hashnode.dev/](https://nileshganvir.hashnode.dev/)
 
