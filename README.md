@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://nileshganvir.hashnode.dev/](https://nileshganvir.hashnode.dev/)
 
-- 💬 Ask me about **AWS, Jenkins, Ansible, Docker**
+- 💬 Ask me about **AWS, Jenkins, Ansible, Docker, Kubernetes**
 
 - 📫 How to reach me **nileshganvir2@gmail.com**
 
