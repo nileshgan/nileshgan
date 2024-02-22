@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nileshganvir2@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny in nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
