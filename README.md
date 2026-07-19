@@ -1,4 +1,6 @@
-https://chatgpt.com/s/m_6a5cdd3e07b0819180b62044e999149b
+<p align="center">
+  <img src="image/banner.png" alt="DevOps Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Nilesh Ganvir</h1>
 <h3 align="center">A passionate DevOps Engineer from Pune, India</h3>
