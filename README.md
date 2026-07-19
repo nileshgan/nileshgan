@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on **DevOps Projects**
 
-- 🌱 I’m currently learning **Python**, **Azure**, **Terraform**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://nileshganvir.hashnode.dev/](https://nileshganvir.hashnode.dev/)
 
 - 💬 Ask me about **AWS, Jenkins, Ansible, Docker, Kubernetes**
 
 - 📫 How to reach me **nileshganvir2@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
