@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQEibkAw4YtOXA/profile-displaybackgroundimage-shrink_350_1400/0/1690911151720?e=1699488000&v=beta&t=3DYQorGaQY_YWFmZBm8tZnKOW9rPpFAK4lUHiNss1FI)
+https://chatgpt.com/s/m_6a5cdd3e07b0819180b62044e999149b
 
 <h1 align="center">Hi 👋, I'm Nilesh Ganvir</h1>
 <h3 align="center">A passionate DevOps Engineer from Pune, India</h3>
